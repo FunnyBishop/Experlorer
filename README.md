@@ -1,2 +1,3 @@
 # Experlorer
- A sigle file which provide a way to Perform simple algebraic operationss
+This code is written in Python and provides a graphical interface window for performing simple algebraic operations. I have added many other types of symbols, and I hope someone can improve the relevant code. (Although the code is somewhat messy, please bear with me. If there are any deficiencies, I welcome criticism and corrections.)
+这份代码是用python代码写成的，它能够提供一个图形界面化的窗口，进行简单的代数运算，我添加了很多其他类型的符号，希望有人能够完善相关的代码，（虽然代码比较凌乱，还请多多包涵，有任何不足之处欢迎批评指正）
